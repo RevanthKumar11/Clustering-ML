@@ -1,8 +1,11 @@
 # Clustering-ML
-# k-Means
-# Affinity Propagation
-# Mean Shift
-# Hierarchical clustering
-# DBscan
-# OPTICS
-# Birch
+<ul>
+  <li>k-Means</li>
+  <li>Affinity Propagation</li>
+  <li>Mean Shift</li>
+  <li>Hierarchical clustering</li>
+  <li>DBscan</li>
+  <li>OPTICS</li>
+  <li>Birch</li>
+</ul>
+
